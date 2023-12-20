@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10873724203",
+    "project_id": "bigram-backen",
+    "storage_bucket": "bigram-backen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10873724203:android:1c993a36d4ee745ebab96e",
+        "android_client_info": {
+          "package_name": "com.example.bigram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLg41C71R8ExAeJm4c-Sso9JO4Cl5L6dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
